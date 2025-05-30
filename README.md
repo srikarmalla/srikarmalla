@@ -101,7 +101,8 @@ srikar.sayHello();
 <div align="center">
 
 <img src="https://img.shields.io/badge/HP_Victus_V15-0096D6?style=for-the-badge&logo=hp&logoColor=white" />
-<img src="https://img.shields.io/badge/Intel_Core_i5-0071C5?style=for-the-badge&logo=intel&logoColor=white" />
+<img src="https://img.shields.io/badge/AMD_Ryzen_5-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+
 <img src="https://img.shields.io/badge/NVIDIA_GTX-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
 
