@@ -90,7 +90,7 @@ srikar.sayHello();
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
 
 ### 💻 **IDEs & Editors**
-<img src="https://skillicons.dev/icons?i=vscode,eclipse&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,eclipse,pycharm&theme=dark" />
 
 </div>
 
